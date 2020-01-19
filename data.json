@@ -9,7 +9,7 @@
     "width": 40,
     "depth": 22
   },
-  "price" : "120",
+  "price" : 120,
   "quantity": 0
 }, {
   "name": "sport bag",
@@ -22,7 +22,7 @@
     "width": 32,
     "depth": 16
   },
-  "price" : "90",
+  "price" : 90,
   "quantity": 4
 }, {
   "name": "purse",
@@ -35,7 +35,7 @@
     "width": 38,
     "depth": 14
   },
-  "price" : "60",
+  "price" : 60,
   "quantity": 2
 }, {
   "name": "grooming bag",
@@ -48,7 +48,7 @@
     "width": 40,
     "depth": 32
   },
-  "price" : "160",
+  "price" : 160,
   "quantity": 3
 }, {
   "name": "school bag",
@@ -61,6 +61,6 @@
     "width": 30,
     "depth": 22
   },
-  "price" : "100",
+  "price" : 100,
   "quantity": 8
 }]
