@@ -13,7 +13,7 @@
   "quantity": 0
 }, {
   "name": "sport bag",
-  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/sport_bag.jpg",
+  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/sport_bag.jpeg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#8F8D8E", "E4E4E4"],
@@ -52,7 +52,7 @@
   "quantity": 3
 }, {
   "name": "school bag",
-  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/school_bag.jpg",
+  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/school_bag.jpeg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#8F8D8B", "B5C305"],
