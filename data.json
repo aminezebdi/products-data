@@ -4,6 +4,11 @@
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#807B77", "000000"],
+  "size": {
+    "height": 40,
+    "width": 40,
+    "depth": 22
+  },
   "price" : "120",
   "quantity": 0
 }, {
@@ -12,6 +17,11 @@
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#8F8D8E", "E4E4E4"],
+  "size": {
+    "height": 40,
+    "width": 32,
+    "depth": 16
+  },
   "price" : "90",
   "quantity": 4
 }, {
@@ -20,6 +30,11 @@
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#857969", "05026A", "49026A"],
+  "size": {
+    "height": 30,
+    "width": 38,
+    "depth": 14
+  },
   "price" : "60",
   "quantity": 2
 }, {
@@ -28,6 +43,11 @@
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#454C63"],
+  "size": {
+    "height": 36,
+    "width": 40,
+    "depth": 32
+  },
   "price" : "160",
   "quantity": 3
 }, {
@@ -36,6 +56,11 @@
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#8F8D8B", "B5C305"],
+  "size": {
+    "height": 42,
+    "width": 30,
+    "depth": 22
+  },
   "price" : "100",
   "quantity": 8
 }]
