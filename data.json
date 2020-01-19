@@ -1,4 +1,5 @@
 [{
+  "id": "1",
   "name": "diaper bag",
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/diaper_bag.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
@@ -12,6 +13,7 @@
   "price" : 120,
   "quantity": 0
 }, {
+  "id": "2",
   "name": "sport bag",
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/sport_bag.jpeg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
@@ -25,6 +27,7 @@
   "price" : 90,
   "quantity": 4
 }, {
+  "id": "3",
   "name": "purse",
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/purse.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
@@ -38,6 +41,7 @@
   "price" : 60,
   "quantity": 2
 }, {
+  "id": "4",
   "name": "grooming bag",
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/grooming_bag.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
@@ -51,6 +55,7 @@
   "price" : 160,
   "quantity": 3
 }, {
+  "id": "5",
   "name": "school bag",
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/school_bag.jpeg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
