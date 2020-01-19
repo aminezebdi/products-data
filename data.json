@@ -1,6 +1,6 @@
 [{
   "name": "diaper bag",
-  "imageUrl": "https://raw.githubusercontent.com/aminezebdi/products-data/master/diaper_bag.jpg",
+  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/diaper_bag.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#807B77", "000000"],
@@ -13,7 +13,7 @@
   "quantity": 0
 }, {
   "name": "sport bag",
-  "imageUrl": "https://raw.githubusercontent.com/aminezebdi/products-data/master/sport_bag.jpg",
+  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/sport_bag.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#8F8D8E", "E4E4E4"],
@@ -26,7 +26,7 @@
   "quantity": 4
 }, {
   "name": "purse",
-  "imageUrl": "https://raw.githubusercontent.com/aminezebdi/products-data/master/purse.jpg",
+  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/purse.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#857969", "05026A", "49026A"],
@@ -39,7 +39,7 @@
   "quantity": 2
 }, {
   "name": "grooming bag",
-  "imageUrl": "https://raw.githubusercontent.com/aminezebdi/products-data/master/grooming_bag.jpg",
+  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/grooming_bag.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#454C63"],
@@ -52,7 +52,7 @@
   "quantity": 3
 }, {
   "name": "school bag",
-  "imageUrl": "https://raw.githubusercontent.com/aminezebdi/products-data/master/school_bag.jpg",
+  "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/school_bag.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
   "colors": ["#8F8D8B", "B5C305"],
