@@ -3,7 +3,7 @@
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/diaper_bag.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
-  "colors": ["#807B77", "000000"],
+  "colors": ["#807B77", "#000000"],
   "size": {
     "height": 40,
     "width": 40,
@@ -16,7 +16,7 @@
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/sport_bag.jpeg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
-  "colors": ["#8F8D8E", "E4E4E4"],
+  "colors": ["#8F8D8E", "#E4E4E4"],
   "size": {
     "height": 40,
     "width": 32,
@@ -29,7 +29,7 @@
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/purse.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
-  "colors": ["#857969", "05026A", "49026A"],
+  "colors": ["#857969", "#05026A", "#49026A"],
   "size": {
     "height": 30,
     "width": 38,
@@ -55,7 +55,7 @@
   "image_url": "https://raw.githubusercontent.com/aminezebdi/products-data/master/school_bag.jpeg",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis elit, fermentum eu lobortis at, dapibus et magna. Duis mattis lacus sit amet consectetur finibus. Sed iaculis posuere nibh in commodo.",
   "small_description": "Lorem ipsum",
-  "colors": ["#8F8D8B", "B5C305"],
+  "colors": ["#8F8D8B", "#B5C305"],
   "size": {
     "height": 42,
     "width": 30,
